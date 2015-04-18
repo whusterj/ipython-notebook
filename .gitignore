@@ -1,0 +1,3 @@
+.vagrant/
+vagrant-results.txt
+notebooks/.ipynb_checkpoints/
